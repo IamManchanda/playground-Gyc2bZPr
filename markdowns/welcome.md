@@ -2,7 +2,7 @@
 
 Welcome back, In the [previous](https://tech.io/playgrounds/6671/modern-es6-javascript-pt--4) article we covered an Intro about Strings and Template Strings, now this article and Part 6 will look to cover all the **built-in** **String Properties and Methods** within JavaScript. Please note that we will only cover those properties that are currently available within the working draft of ECMAScript.
 
-Now believe or not, Understanding these built-in methods/functions is the utmost important thing when it comes to programming in JavaScript. You would be using them a lot for generating the required data and even use them to create your own functions in JavaScript.
+Now believe it or not, Understanding these built-in methods/functions is the utmost important thing when it comes to programming in JavaScript. You would be using them a lot for generating the required data and even use them to create your own functions in JavaScript.
 
 ## length
 
