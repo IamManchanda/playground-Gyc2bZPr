@@ -15,10 +15,10 @@ str.length
 **Example**
 
 ```javascript runnable
-let name = 'Harry';
+let myName = 'Harry';
 let empty = '';
 
-console.log('Harry is ' + name.length + ' code units long');
+console.log('Harry is ' + myName.length + ' code units long');
 /* => Harry is 5 code units long */
 
 console.log('The empty string has a length of ' + empty.length);
@@ -56,7 +56,7 @@ console.log("The character at index 2   is '" + goodParts.charAt(2)   + "'");
 console.log("The character at index 3   is '" + goodParts.charAt(3)   + "'");
 console.log("The character at index 4   is '" + goodParts.charAt(4)   + "'");
 console.log("The character at index 999 is '" + goodParts.charAt(999) + "'");
-// This will print blank '' as there isn't a index 199 within this String.
+// This will print blank '' as there isn't a index 999 within this String.
 ```
 
 ## charCodeAt()
