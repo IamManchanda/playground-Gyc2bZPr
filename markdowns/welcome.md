@@ -440,8 +440,11 @@ str.normalize([form]);
 > One of "NFC", "NFD", "NFKC", or "NFKD", specifying the Unicode Normalization Form. If omitted or undefined, "NFC" is used.
 > 
 > NFC — Normalization Form Canonical Composition.
+>
 > NFD — Normalization Form Canonical Decomposition.
+>
 > NFKC — Normalization Form Compatibility Composition.
+>
 > NFKD — Normalization Form Compatibility Decomposition.
 
 **Example**
