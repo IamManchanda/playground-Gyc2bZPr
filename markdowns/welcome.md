@@ -128,7 +128,7 @@ String.fromCharCode(num1[, ...[, numN]])
 
 **Parameters**
 
-`num1, ..., num``*N*`
+`num1, ..., num*N*`
 
 
 > A sequence of numbers that are Unicode values.
