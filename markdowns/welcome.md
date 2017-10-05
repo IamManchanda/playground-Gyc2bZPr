@@ -429,7 +429,7 @@ This will log the code below:
 
 This method is used to retrieve the Unicode Normalization Form of a given string. If the value isn't a string, it will be converted to one first.
 
-*Yes, this is very hard to understand, Unicode Normalization Form. Don't worry just keep it as reference if you are not understanding what does it mean. You don't need this method for regular daily use anyway so you can skip this one if you are finding it hard to understand.*
+***Yes, this one is very hard to understand, Unicode Normalization Form. Don't worry just keep it as reference if you are not understanding what does it mean. You don't need this method for regular daily use anyway so you can skip this one if you are finding it hard to understand.***
 
 ```javascript
 str.normalize([form]);
