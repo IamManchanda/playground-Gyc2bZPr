@@ -193,7 +193,7 @@ str.concat(string2[, string3, ..., stringN])
 
 **Parameters**
 
-`string2...string``*N*`
+`string2...stringN`
 
 > Strings to concatenate to this string.
 
